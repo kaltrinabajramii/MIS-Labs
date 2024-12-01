@@ -1,0 +1,18 @@
+# Flutter build output
+build/
+.dart_tool/
+
+# Flutter plugin dependencies
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# VS Code settings
+.vscode/
+
+# IntelliJ/Android Studio settings
+.idea/
+
+# Miscellaneous files
+.metadata
+.packages
+*.log
